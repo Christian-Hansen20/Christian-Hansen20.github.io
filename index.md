@@ -1,6 +1,7 @@
 # Christian Hansens webpage 
+Hello everyone, welcome to my webpage. 
 
-## Hello this is my page  
+## Links to about and home page. 
 [About Page](about.md) | [Achievements page](Achievements.md)
 
 
