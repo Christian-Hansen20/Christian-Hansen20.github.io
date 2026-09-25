@@ -1,2 +1,2 @@
 # Christian-Hansen20.github.io
-jekyll-theme-NAME
+theme: jekyll-theme-minimal
