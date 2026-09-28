@@ -1,3 +1,4 @@
 # My future career plans
 I plan on graduating with a duel major in software engineering and business management. With this combinations of degrees I would like to become a product manager, where I can bridge the gap between the technical engineering side and the business side. Although this is my goal with the rise of AI and its role in modern jobs becoming more and more substantial by the day, I am keeping my mind open and will go where their is demand. I tend to see myself as a leader and am very interested in business, but I also like the technical problem solving programming side, this is mainly why I have aspirations to get a duel major as this will allow me to get the best of both worlds and do what I love most. 
 ## Back to home page.
+[Home](index.mb)
