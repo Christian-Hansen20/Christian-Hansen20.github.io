@@ -2,7 +2,7 @@
 # Christian Hansens webpage 
 
 <img width="100" height="150" alt="IMG_7184" src="https://github.com/user-attachments/assets/c1c0fcb4-37ae-4dd5-9fcd-03349306b11c" />
-
+//Some pictures, I would probably get more professional pictures to put on here when I would be looking for jobs
            
 <img width="100" height="150" alt="IMG_7179" src="https://github.com/user-attachments/assets/d841ff67-97f3-48df-be5d-3ff782fd7c0e" />
 
