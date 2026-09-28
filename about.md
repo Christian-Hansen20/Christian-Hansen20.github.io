@@ -4,7 +4,7 @@ Hello, I am Christian Hansen. I am a freshman software engineering student at th
 
 <img width="500" height="400" alt="IMG_3595" src="https://github.com/user-attachments/assets/0220e647-2598-4038-a8a4-caeb0174d572" />
 
-This is a photo with my Danish Family(Excluding my dad)
+This is a photo with my Danish Family(Excluding my dad and eldest sister)
 
 
 ## Back to home 
