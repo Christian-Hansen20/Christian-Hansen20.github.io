@@ -12,5 +12,7 @@ Hello everyone, welcome to my webpage. Nice to meet all of you.
 
 ## Links to about page, Achievements page, and Future plans. 
 [About Page](about.md) | [Achievements page](Achievements.md) | [Future plans](future.md)
+### how to contact me 
+[contacts](contacts.md)
 
 
